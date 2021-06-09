@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* Primary */
+    --Very-Dark-Magenta: hsl(300, 43%, 22%);
+    --Soft-Pink: hsl(333, 80%, 67%);
+    /* Neutral */
+    --Dark-Grayish-Magenta: hsl(303, 10%, 53%);
+    --Light-Grayish-Magenta: hsl(300, 24%, 96%);
+    --White: hsl(0, 0%, 100%);
+    --body-font: "Spartan",sans-serif;
+
+}
+
+body{
+    background: url(images/bg-pattern-top-mobile.svg) no-repeat top left,url(images/bg-pattern-bottom-mobile.svg) no-repeat bottom right;
+}
