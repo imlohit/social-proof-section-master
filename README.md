@@ -1,3 +1,3 @@
 # social-proof-section-master
 
-Mobile version done. Responsive in desktop still in progress.
+Mobile version done. Making it responsive is still work in progress.
