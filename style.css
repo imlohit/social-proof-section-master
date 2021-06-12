@@ -19,14 +19,9 @@ body{
     
 }
 
-.container{
-    width: 100%;
-}
-
 .showcase,.rating,.box{
     width: 327px;
-    height: 250px;
-    margin: auto;
+    margin: 0 auto;
 }
 
 /* showcase */
@@ -37,7 +32,6 @@ body{
 }
 .showcase h1{
     color: var(--Very-Dark-Magenta);
-    
     line-height: 30px;
     font-weight: 700;
     margin-bottom: 10px;
